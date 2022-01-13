@@ -1,0 +1,45 @@
+body{
+    box-sizing: border-box;
+    background: #2b2b2b;
+}
+.targetdiv
+{
+        padding: 25% 33% 1% 43%;
+    }
+.targeta{
+    width:195px;
+    height:50px;
+    margin:10px;
+    overflow: hidden;
+    border:#fd6e1d  solid 5px;
+    border-radius: 30px;
+
+}
+.targetb{
+    width:195px;
+    height:50px;
+    margin:10px;
+    overflow: hidden;
+    border: #2cfdf1 solid 5px;
+    border-radius: 30px;
+}
+.targetc{
+    width:195px;
+    height:50px;
+    margin:10px;
+    overflow: hidden;
+    border: #fd54a5 solid 5px;
+    border-radius: 30px;
+}
+.targetd {
+    width: 195px;
+    height: 50px;
+    margin: 10px;
+    overflow: hidden;
+    border: #fd3e3e solid 5px;
+    border-radius: 30px;
+}
+.target1{
+    padding:15px 19px 17px 68px;
+
+}
